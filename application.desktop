@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Application Name
+# any executable that lives inside $PATH
+Exec=executable
+# /usr/share/icons/application-icon.png
+Icon=application-icon
+Terminal=false
+Type=Application
+StartupWMClass=glfw-application
